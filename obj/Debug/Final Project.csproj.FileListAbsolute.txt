@@ -1,0 +1,71 @@
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.ADDITEM.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.AddSupplier.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Billitem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DeleteItem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DeleteSupplier.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DisplayItem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DisplaySupplier.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.GenerateBarCode.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.HOME.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Inventory.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Itemmaster.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.PurchaseItem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.SaleItem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Supplier_Dash.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.UpdateItem.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.UpdateSupplier.resources
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.dll
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.DirectShow.dll
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.dll
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.dll
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.presentation.dll
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.xml
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.xml
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.DirectShow.xml
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.xml
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.presentation.xml
+D:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.exe.config
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.exe
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\Final Project.pdb
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.dll
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.DirectShow.dll
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.dll
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.dll
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.presentation.dll
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.xml
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.xml
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\AForge.Video.DirectShow.xml
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.xml
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\bin\Debug\zxing.presentation.xml
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.ADDITEM.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.AddSupplier.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Billitem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DeleteItem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DeleteSupplier.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DisplayItem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.DisplaySupplier.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.GenerateBarCode.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.HOME.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Inventory.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Itemmaster.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.PurchaseItem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.SaleItem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.Supplier_Dash.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.UpdateItem.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final_Project.UpdateSupplier.resources
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.exe
+E:\BSSE\3rd sem\BaraProject\Final Project\Final Project\obj\Debug\Final Project.pdb
